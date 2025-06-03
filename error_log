@@ -1,0 +1,25 @@
+[02-Dec-2024 12:00:42 UTC] PHP Warning:  require(/home/quicmwmz/printerithelp.com/vendor/autoload.php): Failed to open stream: No such file or directory in /home/quicmwmz/printerithelp.com/index.php on line 13
+[02-Dec-2024 12:00:42 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/quicmwmz/printerithelp.com/vendor/autoload.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/quicmwmz/printerithelp.com/index.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/quicmwmz/printerithelp.com/index.php on line 13
+[02-Dec-2024 12:00:44 UTC] PHP Warning:  require(/home/quicmwmz/printerithelp.com/vendor/autoload.php): Failed to open stream: No such file or directory in /home/quicmwmz/printerithelp.com/index.php on line 13
+[02-Dec-2024 12:00:44 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/quicmwmz/printerithelp.com/vendor/autoload.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/quicmwmz/printerithelp.com/index.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/quicmwmz/printerithelp.com/index.php on line 13
+[02-Dec-2024 12:03:17 UTC] PHP Warning:  require(/home/quicmwmz/printerithelp.com/vendor/autoload.php): Failed to open stream: No such file or directory in /home/quicmwmz/printerithelp.com/index.php on line 13
+[02-Dec-2024 12:03:17 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/quicmwmz/printerithelp.com/vendor/autoload.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/quicmwmz/printerithelp.com/index.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/quicmwmz/printerithelp.com/index.php on line 13
+[02-Dec-2024 12:03:19 UTC] PHP Warning:  require(/home/quicmwmz/printerithelp.com/vendor/autoload.php): Failed to open stream: No such file or directory in /home/quicmwmz/printerithelp.com/index.php on line 13
+[02-Dec-2024 12:03:19 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/quicmwmz/printerithelp.com/vendor/autoload.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/quicmwmz/printerithelp.com/index.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/quicmwmz/printerithelp.com/index.php on line 13
+[02-Dec-2024 12:03:24 UTC] PHP Warning:  require(/home/quicmwmz/printerithelp.com/vendor/autoload.php): Failed to open stream: No such file or directory in /home/quicmwmz/printerithelp.com/index.php on line 13
+[02-Dec-2024 12:03:24 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/quicmwmz/printerithelp.com/vendor/autoload.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/quicmwmz/printerithelp.com/index.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/quicmwmz/printerithelp.com/index.php on line 13
